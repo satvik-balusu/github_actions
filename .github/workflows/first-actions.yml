@@ -1,4 +1,4 @@
-name: my first github actions.
+name: my first github actions
 
 on: [push]
 

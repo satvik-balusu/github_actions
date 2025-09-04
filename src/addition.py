@@ -1,4 +1,4 @@
-# add of 2 nums.
+# add of 2 nums
 def add(a, b):
     return a + b
 
